@@ -6,7 +6,7 @@ Power BI for React JS which provides components and services to enabling develop
 Install
 
 ```bash
-npm install --save react-powerbi
+npm install --save powerbi-react
 ```
 
 Include
